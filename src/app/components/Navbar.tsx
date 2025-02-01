@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <> 
     <nav className='w-full fixed px-5 lg:px-8 xl:px-[-8%]
-    py- gap-20 flex items-center text-center z-50'>
+    py- flex items-center text-center z-50'>
      
        <ul className='md:flex md:flex-col gap-4 px-1 py-20
           fixed-left-64 top-0 bottom-0 w-64 z-50 text-3xl '>

@@ -22,6 +22,7 @@ const Navbar = () => {
      style={{ alignSelf: "center"}}
       width={400}
       height={400}
+      sizes='100vw,50vw'
        alt='your friend'></Image>
     </Link>
 

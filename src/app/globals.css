@@ -10,7 +10,10 @@
 
 @media screen {
   nav{
-    table-layout: auto;
+    font-size: small;
+  }
+  Image{
+    size-adjust: 400px;
   }
   
 }

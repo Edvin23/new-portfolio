@@ -13,13 +13,13 @@
     display:block;
     width: 100%;
     height: 100%;
+    text-size-adjust:  50px ;
     top: 0;
     left: 0;
     position: fixed;
     z-index: 2;
     padding: 15px;
     margin: 15px;
-    font-size: 50px;
 
     img{
       height: 400px;

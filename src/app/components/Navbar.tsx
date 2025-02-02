@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className='justify-center fixed-center px-5 lg:px-8 items-center sm:max-xl:p-9'>
           <Link href="/">
       <Image src="/Images/unnamed.jpg" 
-      className=' max-w-lg max-h-lg '
+      className=' max-w-lg max-h-lg sm:max-xl  '
      style={{ alignSelf: "center"}}
       width={400}
       height={400}

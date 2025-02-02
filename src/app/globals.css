@@ -10,10 +10,9 @@
 
 @media screen {
   nav{
-    font-size: small;
-  }
-  Image{
-    size-adjust: 600px;
+    text-size-adjust: small;
+
+    Image: 600px
   }
   
 }

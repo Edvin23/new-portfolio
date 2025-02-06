@@ -9,7 +9,7 @@ const About = () => {
     <>
     <Navbar/>
     <div className='text-center mx-auto h-screen flex flex-col
-    items-center justify-center gap-60'>
+    items-center justify-center -mt-40'>
       <div></div>
     <Link href="/About/legacy">
       <Image src="/Images/jesuscross.jpg" width={200} height={200} alt='jesus Cross'></Image>

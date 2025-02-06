@@ -10,9 +10,9 @@ const Navbar = () => {
      z-50  '>
      
           <ul className=' gap-6 test-sm md:text-base lg:text-lg xl:text-xl '>
-        <li className='py-1 sm:py-3'><Link href="/About">about</Link></li>
-        <li className='py-1 sm:py-3'><Link href="/Portfolio">portfolio</Link></li>
-        <li className='py-1 sm:py-3'><Link href="/Contact">contact</Link></li>
+        <li className='py-1 sm:py-2'><Link href="/About">about</Link></li>
+        <li className='py-1 sm:py-2'><Link href="/Portfolio">portfolio</Link></li>
+        <li className='py-1 sm:py-2'><Link href="/Contact">contact</Link></li>
           </ul>  
           
 

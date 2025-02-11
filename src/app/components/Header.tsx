@@ -10,7 +10,7 @@ const Header = () => {
         </div>
           
             <Image src="/Images/page1.jpg" 
-            className='flex  max-w-4xl  mx-auto object-cover -mt-80' 
+            className='flex  max-w-full  mx-auto object-cover -mt-80 h-auto' 
             width={1080}
             height={800}
             alt='Home page'></Image>  

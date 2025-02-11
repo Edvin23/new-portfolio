@@ -6,9 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
-    
   },
   "dependencies": {
+    "@canvas-fonts/arial-narrow": "^1.0.4",
     "@canvas-fonts/helvetica": "^1.0.4",
     "@fontsource/nothing-you-could-do": "^5.1.1",
     "@fontsource/public-sans": "^5.1.2",

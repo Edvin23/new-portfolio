@@ -3,6 +3,7 @@ import "./globals.css";
 import "@fontsource/nothing-you-could-do";
 import "@canvas-fonts/helvetica"
 import "@fontsource/public-sans"
+import "@canvas-fonts/arial-narrow"
 
 
 
